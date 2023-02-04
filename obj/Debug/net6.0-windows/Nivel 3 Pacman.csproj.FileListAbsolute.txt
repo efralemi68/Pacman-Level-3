@@ -1,0 +1,18 @@
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\bin\Debug\net6.0-windows\Nivel 3 Pacman.exe
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\bin\Debug\net6.0-windows\Nivel 3 Pacman.deps.json
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\bin\Debug\net6.0-windows\Nivel 3 Pacman.runtimeconfig.json
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\bin\Debug\net6.0-windows\Nivel 3 Pacman.dll
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\bin\Debug\net6.0-windows\ref\Nivel 3 Pacman.dll
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\bin\Debug\net6.0-windows\Nivel 3 Pacman.pdb
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel_3_Pacman.Form1.resources
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.csproj.GenerateResource.cache
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.AssemblyInfoInputs.cache
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.AssemblyInfo.cs
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.dll
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\ref\Nivel 3 Pacman.dll
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.pdb
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.genruntimeconfig.cache
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel 3 Pacman.csproj.AssemblyReference.cache
+C:\Users\Efraín León\source\VisualStudio\Nivel 3 Pacman\obj\Debug\net6.0-windows\Nivel_3_Pacman.Properties.Resources.resources
